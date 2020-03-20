@@ -1,6 +1,6 @@
 ## Nest & Graphql Demo
 
-This a demo app made with nestjs and graphql.
+This a demo app made with nestjs and graphql. You can find an online demo [here](https://nest-graphql-demo.herokuapp.com/graphql).
 ## Installation
 
 ```bash
